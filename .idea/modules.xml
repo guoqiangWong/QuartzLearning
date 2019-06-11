@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/smsalert.iml" filepath="$PROJECT_DIR$/smsalert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartzlearning.iml" filepath="$PROJECT_DIR$/quartzlearning.iml" />
     </modules>
   </component>
 </project>

@@ -1,7 +1,12 @@
 # Getting Started
 
-### Guides
-The following guides illustrates how to use certain features concretely:
+### Reference Documentation
+For further reference, please consider the following sections:
 
-* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+
+### Guides
+The following guides illustrate how to use some features concretely:
+
+* [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
 
